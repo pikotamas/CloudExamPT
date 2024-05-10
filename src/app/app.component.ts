@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  template: `<div>Hello {{value}}</div>`,
+  template: `<div>{{value}}</div>`,
 })
 export class AppComponent {
-  value = 'Worlddsa';
+  value = 'Informatikai rendszer és alkalmazásüzemeltető technikus vizsga 2024. készítette: Pikó Tamás';
 }
